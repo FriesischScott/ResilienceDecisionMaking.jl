@@ -5,7 +5,7 @@ authors = [
     "Julian Salomon <salomon@irz.uni-hannover.de>",
     "Niklas Winnewisser <winnewisser@irz.uni-hannover.de>",
 ]
-version = "0.1.0"
+version = "1.0.0"
 
 [deps]
 Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
